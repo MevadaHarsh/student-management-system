@@ -33,7 +33,7 @@
                   <td>{{i.name}}</td>
                   <td>{{i.enno}}</td>
                   <td>{{i.dob}}</td>
-                  <td><a href="{% url 'st_up' i.id %}" class="btn btn-success">EDIT</a>  <a href="{% url 'st_del' i.id %}" class="btn btn-danger">DELETE</a></td>
+                  <td class="d-flex gap-1 flex-wrap"><a href="{% url 'st_up' i.id %}" class="btn btn-success px-3 col-md-4">EDIT</a>  <a href="{% url 'st_del' i.id %}" class="btn btn-danger col-md-4">DELETE</a></td>
                 </tr>
               {% endfor %}
             </tbody>
