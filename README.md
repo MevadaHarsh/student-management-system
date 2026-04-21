@@ -1,8 +1,4 @@
-# student-management-system
-Student Management System built using Django with full CRUD functionality and responsive UI.
-
 # Student Management System
-
 A CRUD-based web application built using Django to manage student records efficiently.
 
 # Features
@@ -18,12 +14,16 @@ A CRUD-based web application built using Django to manage student records effici
 - Database: SQLite
 
 # Screenshots
-(Add your project screenshots here)
+<img width="1915" height="925" alt="image" src="https://github.com/user-attachments/assets/8a2b6b1f-6092-42fe-a0e4-910424faf4f8" />
+
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/401a94de-8b05-4999-a2c2-861c6fce9e9a" />
+
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/8a5566fb-2e13-4a2c-8f7f-e6470b0cc46b" />
 
 # Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/MevadaHarsh/student-management-system
 
 2. Navigate to project folder:
    cd student-management-system
